@@ -12,11 +12,11 @@ Introduction
 
 Requirements
 ====
-[nginx-1.4.4](http://nginx.org/)
-[lua-nginx-module](https://github.com/chaoslawful/lua-nginx-module)
-[LuaJIT](http://luajit.org)
-[LuaXML](http://viremo.eludi.net/LuaXML)
-[lua-resty-http](https://github.com/pintsized/lua-resty-http/)
+[nginx-1.4.4](http://nginx.org/)  
+[lua-nginx-module](https://github.com/chaoslawful/lua-nginx-module)  
+[LuaJIT](http://luajit.org)  
+[LuaXML](http://viremo.eludi.net/LuaXML)  
+[lua-resty-http](https://github.com/pintsized/lua-resty-http/)  
 [lua-cjson](http://www.kyne.com.au/~mark/)
 
 
@@ -64,4 +64,4 @@ Example
 ====
 使用微信扫一扫，添加微信公共账号 “V哥助手” 体验效果：
 
-![V哥助手二维码](http://mmbiz.qpic.cn/mmbiz/govJ6sqSicNPQkClUt8ialprRIrozQuLP3IB676Mv8XMve09Yib3OnZZMKKQibRjJ0u4Ovclpib3TbVY4suUQfDEIQg/0)
+![V哥助手二维码](http://www.agile6v.com/image_weixin/vhelper.jpg)
