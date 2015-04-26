@@ -1,4 +1,4 @@
-Introduction
+About
 ====
 
 微信公共账号 “V哥助手” 基于nginx lua开发，通过整合开放数据平台API实现如下功能：
